@@ -4,4 +4,4 @@ Little zombie game inspired by Nazi Zombies mode in Call of Duty series. This is
 
 [Gameplay](https://www.youtube.com/watch?v=CcOu2_fUYzo)
 
-[Download](https://drive.google.com/open?id=0B5Xiye5kjr-TdEx1MmtmNElEZWM) compiled final verion.
+[Download](https://drive.google.com/open?id=0B5Xiye5kjr-TdEx1MmtmNElEZWM) compiled final version.
