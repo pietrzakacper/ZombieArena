@@ -1,4 +1,5 @@
-# The_Light_is_Gone
-Little zombie game inspired by Nazi Zombies mode in Call of Duty series. Made by high school students to learn C++ and SFML.
+# Zombie Arena
+===========================
+Little zombie game inspired by Nazi Zombies mode in Call of Duty series. This is my first serious project ever finished.
 
-https://www.youtube.com/watch?v=SfC7fKUiSKY
+[Gameplay](https://www.youtube.com/watch?v=SfC7fKUiSKY)
